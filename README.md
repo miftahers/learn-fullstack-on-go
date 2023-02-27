@@ -1,2 +1,2 @@
-# learn-fullstack-on-go
-Belajar Full Stack Web Development menggunakan golang dan fiber web framework
+#renderer on gofiber
+Learning how to render a web using gofiber renderer
